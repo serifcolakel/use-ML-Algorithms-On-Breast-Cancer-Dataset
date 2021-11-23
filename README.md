@@ -7,7 +7,7 @@
 
 ## Kullanılan Veri Seti 
 
-* Breast Cancer Dataset
+* Breast Cancer Datasets
 
 
 ## Kullanılan Kütüphaneler
