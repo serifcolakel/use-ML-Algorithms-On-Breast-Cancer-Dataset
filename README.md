@@ -6,7 +6,7 @@
 
 
 ## Amaç
->>>>>>> origin/main
+
 >* Çok bilinen Makine Öğrenmesi Algoritmaları(KNN, Logistic Regresyon, Naive Bayes, Random Forest, Destek Vektör Makineleri(SVM),  Desicion Tree ve CNN) breast cancer veri seti üzerinde uygulanması 
 >* Performans Metriklerinin Elde Edilmesi
 >* Elde edilen Performan Metriklerinin değerlendirilmesi 
